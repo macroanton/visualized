@@ -38,5 +38,5 @@ ax.set(xlabel='years (s)', ylabel='Tons',
     title='Biggest Meteor in given years')
 ax.grid()
 #print(dir(ax))
-fig.savefig("meteor.png")
+fig.savefig("meteor.jpg")
 plt.show()
