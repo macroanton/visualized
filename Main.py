@@ -31,7 +31,7 @@ fig, ax = plt.subplots()
 ax.plot(t, s)
 
 
-# ax.yaxis.set_major_formatter('{x:<7.1f}')
+#ax.yaxis.set_major_formatter('{x:<7.1f}')
 #ax.xaxis.set_major_formatter('{x:<7.1f}')
 
 ax.set(xlabel='years (s)', ylabel='Tons',
